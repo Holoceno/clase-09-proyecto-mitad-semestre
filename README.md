@@ -56,7 +56,7 @@ Este proyecto de mitad de semestre fue hecho en el día martes 10 de mayo 2022, 
 
 Los integrantes son: 
 * Jose Moya
-* Mauro Saravia
+* chupala Mauro Saravia
 
 ## lista de materiales
 
